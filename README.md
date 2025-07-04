@@ -1,6 +1,6 @@
 ## Spring Boot + Spring Security 기반 상품 관리
 
-### 주요 기능
+### ✨ 주요 기능
 1. 사용자 인증
    - 회원가입
    - 로그인 및 로그아웃 기능 (Spring Security)
@@ -27,12 +27,12 @@
    ![login validation](images/loginMsg.png)
    ![register users list page](images/registerUsers.png)
 
-### 기술 스택
+### 🛠 기술 스택
 - Backend: Spring Boot 3, Spring Data JPA, Spring Security
 - Frontend: Thymeleaf
 - Database: MySQL
 
-### 고민과 선택
+### 💡 고민과 선택
 - 권한 기반 인가 기능
   - 회원가입 페이지를 따로 만들 것인가<br>
     -> 회원가입 페이지를 동일하게 가져가지만 경로를 다르게 해서 관리자 권한을 부여

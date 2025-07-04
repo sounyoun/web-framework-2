@@ -7,7 +7,7 @@
    - 비밀번호 암호화 (BCryptPasswordEncoder)
    - 로그인 성공 시 상품 목록으로 이동
 
-   ![register form](images/register)
+   ![register form](images/register.png)
 
    
 2. 권한 기반 인가
@@ -15,8 +15,8 @@
    - **관리자 계정** 로그인 시: 상품 등록, 수정, 삭제 기능
    - **일반 계정** 로그인 시:  상품 목록 조회만 가능
   
-   ![admin product list page](images/adminList)
-   ![user product list page](images/userList)
+   ![admin product list page](images/adminList.png)
+   ![user product list page](images/userList.png)
 
    
 3. 추가 기능
@@ -24,8 +24,8 @@
    - 로그인 후 환영 메시지
    - 관리자 전용 전체 사용자 리스트 페이지
   
-   ![login validation](images/loginMsg)
-   ![register users list page](images/registerUsers)
+   ![login validation](images/loginMsg.png)
+   ![register users list page](images/registerUsers.png)
 
 ### 기술 스택
 - Backend: Spring Boot 3, Spring Data JPA, Spring Security

@@ -8,6 +8,7 @@
 - Database: MySQL
 
 
+---
 ### ✨ 주요 기능
 1. 사용자 인증
    - 회원가입
@@ -15,7 +16,7 @@
    - 비밀번호 암호화 (BCryptPasswordEncoder)
    - 로그인 성공 시 상품 목록으로 이동
 
-   <br>
+   
    <img src="images/register.png" alt="register form" width="600">
 
    
@@ -25,7 +26,8 @@
    - **일반 계정** 로그인 시:  상품 목록 조회만 가능
 
 
-   <img src="images/adminList.png" alt="admin product list page" width="400"> <img src="images/userList.png" alt="user product list page" width="400">
+   <img src="images/adminList.png" alt="admin product list page" width="600">
+   <img src="images/userList.png" alt="user product list page" width="600">
 
    
 3. 추가 기능
@@ -34,10 +36,11 @@
    - 관리자 전용 전체 사용자 리스트 페이지
 
 
-   <img src="images/loginMsg.png" alt="login validation" width="400"> <img src="images/registerUsers.png" alt="register users list page" width="400">
+   <img src="images/loginMsg.png" alt="login validation" width="600">
+   <img src="images/registerUsers.png" alt="register users list page" width="600">
 
 
-
+---
 ### 💡 고민과 선택
 - 권한 기반 인가 기능
   - 회원가입 페이지를 따로 만들 것인가<br>

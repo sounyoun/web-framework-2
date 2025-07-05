@@ -14,7 +14,7 @@
    - 비밀번호 암호화 (BCryptPasswordEncoder)
    - 로그인 성공 시 상품 목록으로 이동
 
-   <img="images/register.png" width="500">
+   <img src="images/register.png" width="500">
    ![register form](images/register.png)
 
    

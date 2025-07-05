@@ -15,8 +15,8 @@
    - 비밀번호 암호화 (BCryptPasswordEncoder)
    - 로그인 성공 시 상품 목록으로 이동
 
-
-   <img src="images/register.png" alt="register form" width="600">
+   <br>
+   <img src="images/register.png" alt="register form" width="800">
 
    
 2. 권한 기반 인가
@@ -25,7 +25,7 @@
    - **일반 계정** 로그인 시:  상품 목록 조회만 가능
 
 
-   <img src="images/adminList.png" alt="admin product list page" width="400"> <img src="images/userList.png" alt="user product list page" width="400">
+   <img src="images/adminList.png" alt="admin product list page" width="500"> <img src="images/userList.png" alt="user product list page" width="500">
 
    
 3. 추가 기능
@@ -34,7 +34,7 @@
    - 관리자 전용 전체 사용자 리스트 페이지
 
 
-   <img src="images/loginMsg.png" alt="login validation" width="400"> <img src="images/registerUsers.png" alt="register users list page" width="400">
+   <img src="images/loginMsg.png" alt="login validation" width="500"> <img src="images/registerUsers.png" alt="register users list page" width="500">
 
 
 ### 💡 고민과 선택

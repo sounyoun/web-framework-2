@@ -1,5 +1,6 @@
 ## Spring Boot + Spring Security 기반 상품 관리
 
+> 2025-1 웹프레임워크2 수업의 두 번째 과제
 
 ### 🛠 기술 스택
 - Backend: Spring Boot 3, Spring Data JPA, Spring Security
@@ -14,26 +15,26 @@
    - 비밀번호 암호화 (BCryptPasswordEncoder)
    - 로그인 성공 시 상품 목록으로 이동
 
-   <img src="images/register.png" width="500">
-   ![register form](images/register.png)
+
+   <img src="images/register.png" alt="register form" width="600">
 
    
 2. 권한 기반 인가
    - 관리자 계정 등록
    - **관리자 계정** 로그인 시: 상품 등록, 수정, 삭제 기능
    - **일반 계정** 로그인 시:  상품 목록 조회만 가능
-  
-   ![admin product list page](images/adminList.png)
-   ![user product list page](images/userList.png)
+
+
+   <img src="images/adminList.png" alt="admin product list page" width="400"> <img src="images/userList.png" alt="user product list page" width="400">
 
    
 3. 추가 기능
    - 상품 등록/수정 시 유효성 검사 (@Min으로 가격 0이상)
    - 로그인 후 환영 메시지
    - 관리자 전용 전체 사용자 리스트 페이지
-  
-   ![login validation](images/loginMsg.png)
-   ![register users list page](images/registerUsers.png)
+
+
+   <img src="images/loginMsg.png" alt="login validation" width="400"> <img src="images/registerUsers.png" alt="register users list page" width="400">
 
 
 ### 💡 고민과 선택
